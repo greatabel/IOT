@@ -6,3 +6,5 @@ rosrun rospy_tutorials talker
 
 另开一个终端
 rosrun rospy_tutorials listener
+
+rqt_graph
