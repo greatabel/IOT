@@ -16,3 +16,11 @@ rosrun basics topic_publisher.py
 
 另开命令行:
 rospic echo counter -n 50
+
+发现某种类型消息的所有话题
+rostopic find std_msgs/Int32
+
+rosrun basics topic_subscriber.py
+
+
+
