@@ -23,4 +23,5 @@ rostopic find std_msgs/Int32
 rosrun basics topic_subscriber.py
 
 
+rostopic pub counter std_msgs/Int32 12345
 
